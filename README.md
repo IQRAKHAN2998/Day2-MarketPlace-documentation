@@ -14,3 +14,8 @@ Below is the visual representation of the project structure:
 You can access the detailed documentation by clicking the link below:
 
 [📄 Documentation (Day 2)](./Documentation-day2.pdf)
+## Sanity Schemas
+
+The schema definitions are available in the following file:
+
+`./sanityschema.js`
